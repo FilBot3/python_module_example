@@ -1,0 +1,5 @@
+#!python
+
+import python_module_example
+
+print(python_module_example.example01.say())
